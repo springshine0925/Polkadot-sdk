@@ -28,7 +28,7 @@ names = { version = "0.14.0", default-features = false }
 parity-scale-codec = "3.6.1"
 rand = "0.8.5"
 regex = "1.6.0"
-rpassword = "7.0.0"
+rpassword = "7.3.1"
 serde = { workspace = true, default-features = true }
 serde_json = { workspace = true, default-features = true }
 thiserror = { workspace = true }
